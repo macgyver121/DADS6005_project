@@ -425,9 +425,9 @@ As a result of our project, we are able to generate profit from this model, whic
 ![22](https://user-images.githubusercontent.com/80901294/211754923-a1df6875-c30f-46bd-bd37-2a4cf86e890b.jpg)
 
 # Member
-1.Sivakorn Srichaiyaperk 6410412012 
-2.Nontaporn Wonglek 6410412016
+1. Sivakorn Srichaiyaperk 6410412012 
+2. Nontaporn Wonglek 6410412016
 3.
-4.Teeapon Sangmueang 6410412019
+4. Teeapon Sangmueang 6410412019
 # Advisor
 Ass.Prof.Dr. Ekarat Rattagan
