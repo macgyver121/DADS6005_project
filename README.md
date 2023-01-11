@@ -412,11 +412,6 @@ pickle.dump(model2, open(filename, 'wb'))
 
 <img width="552" alt="Screenshot 2566-01-11 at 15 40 50" src="https://user-images.githubusercontent.com/80901294/211758616-6c96b855-c371-42fb-8bd1-eb5f37f84e13.png">
 
-
-| Bitcoin | Dogecoin |
-|----------|----------|
-| <img width="358" alt="Screenshot 2566-01-11 at 14 52 13" src="https://user-images.githubusercontent.com/80901294/211749574-03b1eb0f-65ef-4d81-8973-3f08de73008c.png"> | <img width="360" alt="Screenshot 2566-01-11 at 14 52 28" src="https://user-images.githubusercontent.com/80901294/211749621-155fd46e-2f0b-4daa-b4c8-02954ad410ef.png"> |
-
 **Bitcoin**
 
 <img width="358" alt="Screenshot 2566-01-11 at 14 52 13" src="https://user-images.githubusercontent.com/80901294/211749574-03b1eb0f-65ef-4d81-8973-3f08de73008c.png">
@@ -426,7 +421,6 @@ pickle.dump(model2, open(filename, 'wb'))
 <img width="360" alt="Screenshot 2566-01-11 at 14 52 28" src="https://user-images.githubusercontent.com/80901294/211749621-155fd46e-2f0b-4daa-b4c8-02954ad410ef.png">
 
 As a result of our project, we are able to generate profit from this model, which indicates that Dogecoin has the potential to generate a higher return than Bitcoin. It's worth noting that this experimental result was obtained by training the model for only 2 hours. This suggests that with more training, the model's accuracy and potential for profit generation could be further improved.
-
 
 ![22](https://user-images.githubusercontent.com/80901294/211754923-a1df6875-c30f-46bd-bd37-2a4cf86e890b.jpg)
 
