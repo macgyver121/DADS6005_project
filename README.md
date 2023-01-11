@@ -1,5 +1,8 @@
 # DADS6005_project
 
+## Introduction
+In this project, we aim to perform real-time analysis of two popular cryptocurrencies: Bitcoin and Dogecoin. Our goal is to predict the future price movements of these currencies by training a machine learning model using the river library's linear regression algorithm. By analyzing historical and realtime data, our model will be able to predict whether the price of a currency will go up (represented as 1) or down (represented as 0). This information can be used by customers to make informed decisions about when to buy or sell these currencies.
+
 
 <img width="624" alt="Screenshot 2566-01-11 at 14 55 44" src="https://user-images.githubusercontent.com/80901294/211749515-91287750-e56c-4167-80dd-941f83189f2f.png">
 
@@ -10,3 +13,4 @@ BTC
 
 Doge coin
 <img width="360" alt="Screenshot 2566-01-11 at 14 52 28" src="https://user-images.githubusercontent.com/80901294/211749621-155fd46e-2f0b-4daa-b4c8-02954ad410ef.png">
+
