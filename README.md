@@ -406,6 +406,8 @@ filename = 'updown_prediction_doge_linear2.sav'
 pickle.dump(model2, open(filename, 'wb'))
 ```
 
+![bd](https://user-images.githubusercontent.com/80901294/211755946-3fac50b7-7190-4fdd-9ea7-8e54ae93c3c4.png)
+
 # Result
 
 **Bitcoin**
