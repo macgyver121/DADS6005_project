@@ -410,6 +410,9 @@ pickle.dump(model2, open(filename, 'wb'))
 
 # Result
 
+<img width="552" alt="Screenshot 2566-01-11 at 15 40 50" src="https://user-images.githubusercontent.com/80901294/211758616-6c96b855-c371-42fb-8bd1-eb5f37f84e13.png">
+
+
 **Bitcoin**
 
 <img width="358" alt="Screenshot 2566-01-11 at 14 52 13" src="https://user-images.githubusercontent.com/80901294/211749574-03b1eb0f-65ef-4d81-8973-3f08de73008c.png">
