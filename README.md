@@ -34,7 +34,7 @@ As a result of our project, we are able to generate profit from this model, whic
 # Member
 1. Sivakorn Srichaiyaperk 6410412012 
 2. Nontaporn Wonglek 6410412016
-3.
+3. Panumas Sithikarn 6410412018 
 4. Teeapon Sangmueang 6410412019
 # Advisor
 Ass.Prof.Dr. Ekarat Rattagan
